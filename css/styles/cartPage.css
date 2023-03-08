@@ -64,7 +64,7 @@ header {
 }
 
 .navigation i {
-    color: #363B4E;
+    color: #503418;
 }
 
 
@@ -83,11 +83,11 @@ header {
 }
 
 .search input {
-    border-radius: 25px;
+    border-radius: 5px;
     height: 45px;
     border: none;
     padding-left: 30px;
-    background-color: #c4c6d669;
+    background-color: #50341883;
 
 }
 
