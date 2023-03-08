@@ -158,6 +158,7 @@ header {
 
 .navigation img {
     width: 120px;
+
 }
 
 .navigation ul {
@@ -182,7 +183,7 @@ header {
 }
 
 .navigation i {
-    color: #363b4e;
+    color: #503418;
 }
 
 .navigation a:hover {
