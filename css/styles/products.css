@@ -101,11 +101,13 @@ img {
 }
 
 .delete-btn {
-    background-color: red;
+    background-color: #5034158c;
+    border-radius: 5px !important;
 }
 
 .edit-btn {
-    background-color: purple;
+    background-color: #5034158c;
+    border-radius: 5px !important;
 }
 
 button {
